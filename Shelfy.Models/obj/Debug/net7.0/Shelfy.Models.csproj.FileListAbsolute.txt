@@ -1,0 +1,15 @@
+C:\ElevenFiftyRedBadge\Shelfy_MVC\Shelfy.Models\bin\Debug\net7.0\Shelfy.Models.deps.json
+C:\ElevenFiftyRedBadge\Shelfy_MVC\Shelfy.Models\bin\Debug\net7.0\Shelfy.Models.dll
+C:\ElevenFiftyRedBadge\Shelfy_MVC\Shelfy.Models\bin\Debug\net7.0\Shelfy.Models.pdb
+C:\ElevenFiftyRedBadge\Shelfy_MVC\Shelfy.Models\obj\Debug\net7.0\Shelfy.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyRedBadge\Shelfy_MVC\Shelfy.Models\obj\Debug\net7.0\Shelfy.Models.AssemblyInfoInputs.cache
+C:\ElevenFiftyRedBadge\Shelfy_MVC\Shelfy.Models\obj\Debug\net7.0\Shelfy.Models.AssemblyInfo.cs
+C:\ElevenFiftyRedBadge\Shelfy_MVC\Shelfy.Models\obj\Debug\net7.0\Shelfy.Models.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyRedBadge\Shelfy_MVC\Shelfy.Models\obj\Debug\net7.0\Shelfy.Models.dll
+C:\ElevenFiftyRedBadge\Shelfy_MVC\Shelfy.Models\obj\Debug\net7.0\refint\Shelfy.Models.dll
+C:\ElevenFiftyRedBadge\Shelfy_MVC\Shelfy.Models\obj\Debug\net7.0\Shelfy.Models.pdb
+C:\ElevenFiftyRedBadge\Shelfy_MVC\Shelfy.Models\obj\Debug\net7.0\ref\Shelfy.Models.dll
+C:\ElevenFiftyRedBadge\Shelfy_MVC\Shelfy.Models\bin\Debug\net7.0\Shelfy.Data.dll
+C:\ElevenFiftyRedBadge\Shelfy_MVC\Shelfy.Models\bin\Debug\net7.0\Shelfy.Data.pdb
+C:\ElevenFiftyRedBadge\Shelfy_MVC\Shelfy.Models\obj\Debug\net7.0\Shelfy.Models.csproj.AssemblyReference.cache
+C:\ElevenFiftyRedBadge\Shelfy_MVC\Shelfy.Models\obj\Debug\net7.0\Shelfy.Models.csproj.CopyComplete

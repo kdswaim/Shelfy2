@@ -1,0 +1,26 @@
+@model GenreDetail
+
+<h1>@Model.GenreName</h1>
+<h4>Are you sure?</h4>
+<hr />
+
+<dl class="row">
+ <dt class="col-sm-2">
+        @Html.DisplayNameFor(model=>model.Id)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(Model=>Model.Id)
+    </dd>
+        <dt class="col-sm-2">
+        @Html.DisplayNameFor(model=>model.GenreName)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(Model=>Model.GenreName)
+    </dd>
+</dl>
+
+<form asp-action="DeleteGenre">
+    <input asp-for="@Model.Id" hidden/>
+    <button asp-for="@Model.Id" type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index">Back to List</a>
+</form>

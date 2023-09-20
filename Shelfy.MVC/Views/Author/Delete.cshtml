@@ -1,0 +1,38 @@
+@model AuthorDetail
+
+<h1>@Model.Name</h1>
+<h4>Are you sure?</h4>
+<hr />
+
+<dl class="row">
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model=>model.AuthorId)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(Model=>Model.AuthorId)
+    </dd>
+        <dt class="col-sm-2">
+        @Html.DisplayNameFor(model=>model.Name)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(Model=>Model.Name)
+    </dd>
+        <dt class="col-sm-2">
+        @Html.DisplayNameFor(model=>model.Biography)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(Model=>Model.Biography)
+    </dd>
+        <dt class="col-sm-2">
+        @Html.DisplayNameFor(model=>model.Website)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(Model=>Model.Website)
+    </dd>
+</dl>
+
+<form asp-action="Delete">
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Edit" asp-route-id=@Model.AuthorId>Edit</a>
+    <a asp-action="Index">Back to List</a>
+</form>
